@@ -1,0 +1,3 @@
+## Plan
+1) Add editor camera
+2) Change the way the bots interact
