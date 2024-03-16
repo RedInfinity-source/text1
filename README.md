@@ -1,4 +1,4 @@
-# Ursina_Voxel_Swarm
+# UrsinaVoxelSwarm
 
 The code generates a 3D voxel-based environment using the Ursina library in Python, allowing user control and creating new voxels with mouse clicks.
 
