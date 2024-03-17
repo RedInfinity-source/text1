@@ -7,7 +7,7 @@ The code generates a 3D voxel-based environment using the Ursina library in Pyth
 - [About](#about)
 - [Features](#features)
 - [Imports](#Imports)
-- [Rating: 7/10](#Rating)
+- [Rating: 6.8/10](#Rating)
 
 # About
 
